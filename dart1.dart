@@ -5,7 +5,7 @@ void main(){
 	String LastName = "Abdumutalibov";
     String MiddleName = "Alijon o`ģli";
     //Task1
-}
+}/*
 //Task2
 void main(){
 	String Pdp = "Pdp Service";
@@ -18,3 +18,4 @@ void main(){
 	print("Hello" + $first);
 }
 
+*/
